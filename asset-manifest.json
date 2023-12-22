@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aimanaress/sevenreactproject.git/static/css/main.ac0154d4.css",
+    "main.js": "/aimanaress/sevenreactproject.git/static/js/main.26125e68.js",
+    "index.html": "/aimanaress/sevenreactproject.git/index.html",
+    "main.ac0154d4.css.map": "/aimanaress/sevenreactproject.git/static/css/main.ac0154d4.css.map",
+    "main.26125e68.js.map": "/aimanaress/sevenreactproject.git/static/js/main.26125e68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac0154d4.css",
+    "static/js/main.26125e68.js"
+  ]
+}
